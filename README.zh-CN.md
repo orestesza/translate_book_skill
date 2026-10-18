@@ -181,6 +181,14 @@ python3 -m unittest discover -s tests -p 'test_*.py' -v
 
 ---
 
+## 🙏 致谢与项目渊源 (Acknowledgements & Origins)
+
+本项目最早受到优秀开源项目 [`deusyu/translate-book`](https://github.com/deusyu/translate-book)（曾通过 `npx skills add deusyu/translate-book` 获取使用）的启发，特此向原作者 **@deusyu** 致以最诚挚的感谢！
+
+在吸取其电子书解包、分块处理与翻译流水线核心思想的基础之上，本项目针对长篇文学大作与严肃非虚构翻译中的“译腔重、口吻扁平、跨块术语漂移、缺少人工标定”等痛点，全新重构并进化出了 **“文学总导演三件套”**、**“有声书角色试音志”**、**“试译准入关卡 (Gate)”**、**“原文锚定补丁”** 与 **“双语1:1断言质检”** 等工程化体系，形成了目前的 `translate-book v1.0.0` 工业级发布标准。
+
+---
+
 ## 📄 开源许可
 
 本项目采用 [MIT 许可证](LICENSE) 开源。欢迎 Star、Fork 并提交 Issue / PR 共同完善文学级 AI 翻译工作流！

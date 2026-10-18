@@ -180,6 +180,14 @@ Ready-to-use template schemas are provided in `templates/`:
 
 ---
 
+## 🙏 Acknowledgements & Origins
+
+This project was originally inspired by and learned from the pioneering open-source skill [`deusyu/translate-book`](https://github.com/deusyu/translate-book) (accessed via `npx skills add deusyu/translate-book`). 
+
+We express our sincere gratitude to **@deusyu** for establishing the foundational eBook chunking and translation pipeline concept. Building upon that foundation, `translate-book v1.0.0` evolved and engineered an industrial-grade system introducing the **Literary Director System**, **Character Voice Casting Profiles**, **Human-in-the-Loop Sample Trial Translation Gate**, **Source-Anchored Alignment Patching**, and comprehensive **QA Assertion Testing**.
+
+---
+
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE). Contributions, Issues, and PRs are warmly welcome!
