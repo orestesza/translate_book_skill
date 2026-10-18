@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "terms": [
+    {
+      "id": "Term_Identifier",
+      "source": "Term in English",
+      "target": "中文规范统一译名",
+      "category": "concept / place / person / organization",
+      "aliases": ["Alias 1", "Variant"],
+      "gender": "unknown",
+      "confidence": "high",
+      "frequency": 0,
+      "evidence_refs": [],
+      "notes": "术语背景解释与统一翻译要求说明"
+    }
+  ],
+  "high_frequency_top_n": 20,
+  "applied_meta_hashes": {}
+}

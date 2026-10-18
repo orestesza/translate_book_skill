@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "characters": [
+    {
+      "id": "Character_ID",
+      "source_name": "Full Name in English",
+      "target_name": "中文标准定名",
+      "aliases": ["Nickname", "Title"],
+      "gender": "male / female / nonbinary / unknown",
+      "age_group": "child / teen / young_adult / adult / senior",
+      "age_description": "年龄与社会身份简述",
+      "social_status": "社会阶层与职业定位",
+      "personality": "性格底色、心理特质与情绪倾向",
+      "voice_and_dialogue": {
+        "self_reference": "我（自然的现代第一人称，严禁封建奴仆称谓）",
+        "cadence_and_tone": "语速与语气特征（如沉稳从容、急促紧绷、轻快跳跃）",
+        "vocabulary_style": "遣词造句习惯（如上层学院风、街头口语、干练军人风格）",
+        "rules": [
+          "特定情境下的台词对话翻译准则"
+        ],
+        "example_dialogue": [
+          {
+            "en": "\"Original English quote.\"",
+            "zh": "“符合人设的标准中文台词示范。”"
+          }
+        ]
+      },
+      "audiobook_profile": {
+        "voice_profile": "有声书声线定位（如：深沉富有磁性的男低音 / 清脆灵动的少年音）",
+        "pitch_and_texture": "音高与质感（如：中低音，带有烟草风霜颗粒感）",
+        "pacing": "演播语速（如：缓慢平稳，停顿富有戏剧张力）",
+        "tone": "演播情绪基调（如：冷静、威严、从容）",
+        "casting_notes": "配音选角参考演员（如：查尔斯·丹斯、杰瑞米·艾恩斯）"
+      }
+    }
+  ]
+}
